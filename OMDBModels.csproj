@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Authors>camerongineer</Authors>
+        <PackageDescription>A collection of class models for OMDB</PackageDescription>
+        <RepositoryUrl>https://github.com/camerongineer/OMDBModels.git</RepositoryUrl>
+        <Title>OMDB Models</Title>
+        <PackageId>Camerongineer.OMDBModels</PackageId>
+        <Copyright>2024</Copyright>
+        <Description>A collection of class models for OMDB</Description>
+        <PackageProjectUrl>https://github.com/camerongineer/OMDBModels</PackageProjectUrl>
+        <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    </PropertyGroup>
+
+</Project>
